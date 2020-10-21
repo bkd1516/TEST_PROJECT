@@ -20,6 +20,7 @@ namespace TEST_PROJECT
         private void Form1_Load(object sender, EventArgs e)
         {
             Console.WriteLine("TEST");
+            Console.WriteLine("TEST2");
         }
     }
 }
